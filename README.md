@@ -7,8 +7,8 @@ ENUNCIADOS:
 
 2 - Contar información: Cuenta la catidad de películas almacenadas e indica el o los géneros de cada una  
 
-3 - Buscar o filtrar información: Se pide por pantalla un número de valoración y se muestran el numero de peliculas juntos con el director de ellas que cuentan con dicha valoración  
+3 - Buscar o filtrar información: Pide una el título de una película por teclado y te muestra el director y el año de estreno  
 
-4 - Buscar información relacionada: Pide una el título de una película por teclado y te muestra el director y el año de estreno  
+4 - Buscar información relacionada: Se pide por pantalla un número de valoración y se muestran el numero de peliculas junto con el director de ellas que cuentan con dicha valoración  
 
-5 - Ejercicio libre: Muestra los cines que hay luego se pide uno y muestra las películas que hay en ese cine
+5 - Ejercicio libre: Se muestran una lista de generos, se pide uno de ellos por teclado y muestra las peliculas o pelicula que pertenecen a ese genero, luego se pide la pelicula deseada por teclado y se muestra su sinopsis
