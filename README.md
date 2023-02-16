@@ -9,6 +9,6 @@ ENUNCIADOS:
 
 3 - Buscar o filtrar información: Pide una el título de una película por teclado y te muestra el director y el año de estreno  
 
-4 - Buscar información relacionada: Se pide por pantalla un número de valoración y se muestran el numero de peliculas junto con el director de ellas que cuentan con dicha valoración  
+4 - Buscar información relacionada: Se pide por pantalla un número de valoración y se muestra el titulo de las peliculas junto con su sinopsis que cuente con dicha valoración  
 
 5 - Ejercicio libre: Se muestran una lista de generos, se pide uno de ellos por teclado y muestra las peliculas o pelicula que pertenecen a ese genero, luego se pide la pelicula deseada por teclado y se muestra su sinopsis
